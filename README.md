@@ -1,6 +1,22 @@
 # Women Safety App
 ### A React Native application designed to enhance personal safety for women through innovative features such as location tracking, audio recording, and emergency services integration.
 
+## Table of Contents
+- [Introduction](#introduction)
+- [Prerequisites](#prerequisites)
+- [Installation](#installation)
+- [Project Setup](#project-setup)
+- [Configure API Keys](#configure-api-keys)
+- [Run the App](#run-the-app)
+- [Configure Firebase Storage Rules](#configure-firebase-storage-rules)
+- [Preview](#preview)
+- [Notes](#notes)
+- [About the Team](#about-the-team)
+- [License](#license)
+- [Contribution Guidelines](#contribution-guidelines)
+- [Contact](#contact)
+
+
 ## Prerequisites
 
 Make sure you have the following installed on your system:
@@ -129,19 +145,24 @@ Below are some screenshots of the Women Safety App. You can scroll through them 
   <img src="assets/images/screenshot7.jpg" alt="Screenshot 7" class="screenshot" />
 </div>
 
-.screenshot-container {
-  display: flex;
-  overflow-x: auto; /* Enables horizontal scrolling */
-  scroll-snap-type: x mandatory; /* For snapping effect */
-}
+<style>
+        .screenshot-container {
+            display: flex;
+            overflow-x: auto; /* Enables horizontal scrolling */
+            scroll-snap-type: x mandatory; /* For snapping effect */
+        }
 
-.screenshot {
-  flex: 0 0 auto; /* Prevents images from shrinking */
-  width: 300px; /* Adjust as needed */
-  height: auto; /* Maintains aspect ratio */
-  margin-right: 10px; /* Space between images */
-  scroll-snap-align: start; /* Aligns images on snap */
-}
+        .screenshot {
+            flex: 0 0 auto; /* Prevents images from shrinking */
+            width: 300px; /* Adjust as needed */
+            height: auto; /* Maintains aspect ratio */
+            margin-right: 10px; /* Space between images */
+            scroll-snap-align: start; /* Aligns images on snap */
+            border: 1px solid #ccc; /* Adds a light border */
+            border-radius: 8px; /* Rounds the corners */
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2); /* Adds a shadow */
+        }
+    </style>
 
 
 
