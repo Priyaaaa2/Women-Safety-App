@@ -6,7 +6,7 @@ A React Native app built with Expo, designed to incorporate various libraries an
 
 Make sure you have the following installed on your system:
 - [Node.js](https://nodejs.org/) (version v20.18.0 recommended)
-- Make sure it is installed by following commands
+- Make sure it is installed by using following commands
   
   ```bash
   node -v
