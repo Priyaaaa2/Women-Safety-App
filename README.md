@@ -41,7 +41,7 @@ Make sure you have the following installed on your system:
 ### Configure API Keys
 
 1. **Groq API Key**:
-   - Obtain your Groq API key by signing up and creating an account on [Groq's official website](https://groq.dev/).
+   - Obtain your Groq API key by signing up and creating an account on [Groq's official website](https://console.groq.com/playground).
    - Once you have the API key, open your `explore.tsx` code and locate any instances of `YOUR_GROQ_API_KEY`.
    - Replace `YOUR_GROQ_API_KEY` with your actual key in the code as follows:
 
