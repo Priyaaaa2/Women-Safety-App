@@ -135,38 +135,16 @@ Update your Firebase Storage rules to the following to allow unrestricted read a
 
 Below are some screenshots of the Women Safety App. You can scroll through them to get a better view of the app's features.
 
-```html
-<div class="screenshot-container">
-  <img src="assets/images/screenshot1.jpg" alt="Screenshot 1" class="screenshot" />
-  <img src="assets/images/screenshot2.jpg" alt="Screenshot 2" class="screenshot" />
-  <img src="assets/images/screenshot3.jpg" alt="Screenshot 3" class="screenshot" />
-  <img src="assets/images/screenshot4.jpg" alt="Screenshot 4" class="screenshot" />
-  <img src="assets/images/screenshot5.jpg" alt="Screenshot 5" class="screenshot" />
-  <img src="assets/images/screenshot6.jpg" alt="Screenshot 6" class="screenshot" />
-  <img src="assets/images/screenshot7.jpg" alt="Screenshot 7" class="screenshot" />
+
+<div style="display: flex; overflow-x: auto; scroll-snap-type: x mandatory; padding: 10px;">
+  <img src="assets/images/screenshot1.jpg" alt="Screenshot 1" style="flex: 0 0 auto; width: 300px; height: auto; margin-right: 10px; scroll-snap-align: start; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);" />
+  <img src="assets/images/screenshot2.jpg" alt="Screenshot 2" style="flex: 0 0 auto; width: 300px; height: auto; margin-right: 10px; scroll-snap-align: start; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);" />
+  <img src="assets/images/screenshot3.jpg" alt="Screenshot 3" style="flex: 0 0 auto; width: 300px; height: auto; margin-right: 10px; scroll-snap-align: start; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);" />
+  <img src="assets/images/screenshot4.jpg" alt="Screenshot 4" style="flex: 0 0 auto; width: 300px; height: auto; margin-right: 10px; scroll-snap-align: start; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);" />
+  <img src="assets/images/screenshot5.jpg" alt="Screenshot 5" style="flex: 0 0 auto; width: 300px; height: auto; margin-right: 10px; scroll-snap-align: start; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);" />
+  <img src="assets/images/screenshot6.jpg" alt="Screenshot 6" style="flex: 0 0 auto; width: 300px; height: auto; margin-right: 10px; scroll-snap-align: start; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);" />
+  <img src="assets/images/screenshot7.jpg" alt="Screenshot 7" style="flex: 0 0 auto; width: 300px; height: auto; margin-right: 10px; scroll-snap-align: start; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);" />
 </div>
-
-<style>
-        .screenshot-container {
-            display: flex;
-            overflow-x: auto; /* Enables horizontal scrolling */
-            scroll-snap-type: x mandatory; /* For snapping effect */
-        }
-
-        .screenshot {
-            flex: 0 0 auto; /* Prevents images from shrinking */
-            width: 300px; /* Adjust as needed */
-            height: auto; /* Maintains aspect ratio */
-            margin-right: 10px; /* Space between images */
-            scroll-snap-align: start; /* Aligns images on snap */
-            border: 1px solid #ccc; /* Adds a light border */
-            border-radius: 8px; /* Rounds the corners */
-            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2); /* Adds a shadow */
-        }
-</style>
-```
-
-
 
 ---
 
