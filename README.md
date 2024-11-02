@@ -12,10 +12,6 @@
 - [Preview](#preview)
 - [Notes](#notes)
 - [About the Team](#about-the-team)
-- [License](#license)
-- [Contribution Guidelines](#contribution-guidelines)
-- [Contact](#contact)
-
 
 ## Prerequisites
 
