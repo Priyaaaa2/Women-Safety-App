@@ -137,13 +137,13 @@ Below are some screenshots of the Women Safety App. You can scroll through them 
 
 
 <div style="display: flex; overflow-x: auto; white-space: nowrap; padding: 10px;">
-  <img src="assets/images/screenshot1.jpg" alt="Screenshot 1" style="display: inline-block; width: auto; height: 200px; object-fit: cover; margin-right: 10px; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);" />
-  <img src="assets/images/screenshot2.jpg" alt="Screenshot 2" style="display: inline-block; width: auto; height: 200px; object-fit: cover; margin-right: 10px; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);" />
-  <img src="assets/images/screenshot3.jpg" alt="Screenshot 3" style="display: inline-block; width: auto; height: 200px; object-fit: cover; margin-right: 10px; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);" />
-  <img src="assets/images/screenshot4.jpg" alt="Screenshot 4" style="display: inline-block; width: auto; height: 200px; object-fit: cover; margin-right: 10px; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);" />
-  <img src="assets/images/screenshot5.jpg" alt="Screenshot 5" style="display: inline-block; width: auto; height: 200px; object-fit: cover; margin-right: 10px; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);" />
-  <img src="assets/images/screenshot6.jpg" alt="Screenshot 6" style="display: inline-block; width: auto; height: 200px; object-fit: cover; margin-right: 10px; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);" />
-  <img src="assets/images/screenshot7.jpg" alt="Screenshot 7" style="display: inline-block; width: auto; height: 200px; object-fit: cover; margin-right: 10px; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);" />
+  <img src="assets/images/screenshot1.jpg" alt="Screenshot 1" style="display: inline-block; width: auto; height: 400px; object-fit: cover; margin-right: 10px; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);" />
+  <img src="assets/images/screenshot2.jpg" alt="Screenshot 2" style="display: inline-block; width: auto; height: 400px; object-fit: cover; margin-right: 10px; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);" />
+  <img src="assets/images/screenshot3.jpg" alt="Screenshot 3" style="display: inline-block; width: auto; height: 400px; object-fit: cover; margin-right: 10px; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);" />
+  <img src="assets/images/screenshot4.jpg" alt="Screenshot 4" style="display: inline-block; width: auto; height: 400px; object-fit: cover; margin-right: 10px; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);" />
+  <img src="assets/images/screenshot5.jpg" alt="Screenshot 5" style="display: inline-block; width: auto; height: 400px; object-fit: cover; margin-right: 10px; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);" />
+  <img src="assets/images/screenshot6.jpg" alt="Screenshot 6" style="display: inline-block; width: auto; height: 400px; object-fit: cover; margin-right: 10px; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);" />
+  <img src="assets/images/screenshot7.jpg" alt="Screenshot 7" style="display: inline-block; width: auto; height: 400px; object-fit: cover; margin-right: 10px; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);" />
 </div>
 
 ---
