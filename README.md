@@ -112,12 +112,42 @@ Update your Firebase Storage rules to the following to allow unrestricted read a
 
  **Important**: For production, secure your data by adding appropriate authentication rules. You can learn more about Firebase Storage security rules [here](https://firebase.google.com/docs/rules).
 
+
+---
+
+## Preview
+
+Below are some screenshots of the Women Safety App. You can scroll through them to get a better view of the app's features.
+
+<div class="screenshot-container">
+  <img src="assets/images/screenshot1.jpg" alt="Screenshot 1" class="screenshot" />
+  <img src="assets/images/screenshot2.jpg" alt="Screenshot 2" class="screenshot" />
+  <img src="assets/images/screenshot3.jpg" alt="Screenshot 3" class="screenshot" />
+  <img src="assets/images/screenshot4.jpg" alt="Screenshot 4" class="screenshot" />
+  <img src="assets/images/screenshot5.jpg" alt="Screenshot 5" class="screenshot" />
+  <img src="assets/images/screenshot6.jpg" alt="Screenshot 6" class="screenshot" />
+  <img src="assets/images/screenshot7.jpg" alt="Screenshot 7" class="screenshot" />
+</div>
+
+.screenshot {
+  flex: 0 0 auto;
+  width: 300px; 
+  height: auto; 
+  margin-right: 10px; 
+  scroll-snap-align: start; 
+  border: 1px solid #ccc; /* Adds a light border */
+  border-radius: 8px; /* Rounds the corners */
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2); /* Adds a shadow */
+}
+
+
 ---
 
 ### Notes
 
 - ***Recorded audio is saved in Firebase Storage, allowing for secure access and further analysis.***
 - Ensure your Expo CLI and dependencies stay updated to maintain compatibility.
+- Connect the external device with Expo App to the same network as your system.
 - You may adjust any configurations in `app.json` or `tsconfig.json` as per your requirements.
 
 Enjoy developing with Women Safety App! If you encounter any issues, feel free to check the [Expo documentation](https://docs.expo.dev/) or reach out for support.
