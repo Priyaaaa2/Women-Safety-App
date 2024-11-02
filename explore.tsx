@@ -5,7 +5,7 @@ import Markdown from 'react-native-markdown-display';
 import { ThemedView } from '@/components/ThemedView'; // Assuming ThemedView is properly defined
 import * as Location from 'expo-location';
 
-const GROQ_API_KEY = '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'; // Replace with your actual API key
+const GROQ_API_KEY = 'YOUR_GROQ_API_KEY'; // Replace with your actual API key
 
 const groq = new Groq({
   apiKey: GROQ_API_KEY,
