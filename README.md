@@ -117,6 +117,7 @@ Update your Firebase Storage rules to the following to allow unrestricted read a
 
 ### Notes
 
+- ***Recorded audio is saved in Firebase Storage, allowing for secure access and further analysis.***
 - Ensure your Expo CLI and dependencies stay updated to maintain compatibility.
 - You may adjust any configurations in `app.json` or `tsconfig.json` as per your requirements.
 
