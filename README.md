@@ -1,6 +1,5 @@
-# Women-Safety-App
-
-A React Native app built with Expo, designed to incorporate various libraries and functionalities, including location services, maps, audio playback, and Firebase integration.
+# Women Safety App
+### A React Native application designed to enhance personal safety for women through innovative features such as location tracking, audio recording, and emergency services integration.
 
 ## Prerequisites
 
