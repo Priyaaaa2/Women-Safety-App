@@ -97,8 +97,8 @@ Make sure you have the following installed on your system:
 To allow your app to read and write files to Firebase Storage, you may need to modify the default security rules. By default, Firebase restricts access to ensure data security. For development purposes, you can update the rules to make it easier to test, but **make sure to revert to more restrictive rules before going to production**.
 
 Update your Firebase Storage rules to the following to allow unrestricted read and write access: 
-```
-plaintext
+
+```plaintext
    rules_version = '2';
    service firebase.storage {
      match /b/{bucket}/o {
@@ -107,7 +107,7 @@ plaintext
        }
      }
    }
-```
+  ```
 
    This will allow any user to read and write data in your Firebase Storage, which is suitable only for development.
 
