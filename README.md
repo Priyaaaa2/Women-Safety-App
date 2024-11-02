@@ -135,6 +135,7 @@ Update your Firebase Storage rules to the following to allow unrestricted read a
 
 Below are some screenshots of the Women Safety App. You can scroll through them to get a better view of the app's features.
 
+```html
 <div class="screenshot-container">
   <img src="assets/images/screenshot1.jpg" alt="Screenshot 1" class="screenshot" />
   <img src="assets/images/screenshot2.jpg" alt="Screenshot 2" class="screenshot" />
@@ -162,7 +163,8 @@ Below are some screenshots of the Women Safety App. You can scroll through them 
             border-radius: 8px; /* Rounds the corners */
             box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2); /* Adds a shadow */
         }
-    </style>
+</style>
+```
 
 
 
