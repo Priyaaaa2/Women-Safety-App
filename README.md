@@ -129,16 +129,20 @@ Below are some screenshots of the Women Safety App. You can scroll through them 
   <img src="assets/images/screenshot7.jpg" alt="Screenshot 7" class="screenshot" />
 </div>
 
-.screenshot {
-  flex: 0 0 auto;
-  width: 300px; 
-  height: auto; 
-  margin-right: 10px; 
-  scroll-snap-align: start; 
-  border: 1px solid #ccc; /* Adds a light border */
-  border-radius: 8px; /* Rounds the corners */
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2); /* Adds a shadow */
+.screenshot-container {
+  display: flex;
+  overflow-x: auto; /* Enables horizontal scrolling */
+  scroll-snap-type: x mandatory; /* For snapping effect */
 }
+
+.screenshot {
+  flex: 0 0 auto; /* Prevents images from shrinking */
+  width: 300px; /* Adjust as needed */
+  height: auto; /* Maintains aspect ratio */
+  margin-right: 10px; /* Space between images */
+  scroll-snap-align: start; /* Aligns images on snap */
+}
+
 
 
 ---
